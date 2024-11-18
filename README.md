@@ -6,7 +6,10 @@
 # version app
 <p>1.3.2</p>
 ---
-# platform
-اندروید 
+
+
+---
+# platform 
+<p>اندروید</p>
 ---
 
