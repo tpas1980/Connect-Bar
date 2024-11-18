@@ -3,10 +3,10 @@
 
 ---
  
-##version app
-1.3.2
+#version app
+نسخه موجود 1.3.2
 ---
-##platform
-android
+#platform
+اندروید 
 ---
 
